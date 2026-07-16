@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Translate webpage to English (silent)
-// @namespace    https://github.com/Procyon-b
+// @namespace    https://github.com/gliddd4/silent-translate/edit/main/translate.user.js
 // @version      2.5
 // @description  Translates the whole page to English silently. No UI.
-// @author       Achernar (modified)
+// @author       gliddd4
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
